@@ -1,0 +1,20 @@
+{
+  "name": "lesson-17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server-mongoose.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2",
+    "mongodb": "^3.6.10",
+    "node": "^16.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server-mongoose.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
